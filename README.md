@@ -45,7 +45,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/tauhid-hasan-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tauhid-hasan-dev&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-hasan-dev&theme=buefy&layout=compact" />
 </a>
