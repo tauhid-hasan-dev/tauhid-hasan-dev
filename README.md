@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tauhid Hasan</h1>
 <h3 align="center">A passionate frontend developer originally from Bangladesh and living in Istanbul, Turkey.</h3>
 
-- 🔭 I’m currently working on **clone of nittim.com**
+- 🔭 I’m currently working on **form-validator**
 
 - 🌱 I’m currently learning **Tailwind**
 
