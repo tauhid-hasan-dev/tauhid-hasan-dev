@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tauhid Hasan</h1>
 <h3 align="center">A passionate frontend developer originally from Bangladesh and living in Istanbul, Turkey.</h3>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=tauhid-hasan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tauhid-hasan-dev" /> </span>
+
 
 - 📝 I regularly write articles on [https://medium.com/@tauhid-hasan](https://medium.com/@tauhid-hasan)
 
