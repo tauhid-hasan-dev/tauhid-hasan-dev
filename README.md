@@ -47,7 +47,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tauhid-hasan-dev&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-hasan-dev&theme=dark&layout=compact" />
 </a>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tauhid-hasan-dev&show_icons=true&theme=gotham" alt="tauhid-hasan-dev" />
 
 <br/>
 
