@@ -44,8 +44,8 @@
 <br/>
 
 <a href="https://github.com/tauhid-hasan-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tauhid-hasan-dev&theme=gotham&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-hasan-dev&theme=gotham&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tauhid-hasan-dev&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-hasan-dev&theme=dark&layout=compact" />
 </a>
 
 <br/>
