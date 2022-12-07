@@ -1,5 +1,6 @@
 <img  src="https://i.ibb.co/BszNLnj/Hiring-2.png"/>
 <h3 align="center">A passionate Frontend Developer(ReactJs) originally from Bangladesh and living in Istanbul, Turkey.</h3>
+<hr style="border:2px solid gray">
 
 
 - 📝 I am learning **Typescript, NextJs, Redux** 
