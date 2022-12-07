@@ -1,8 +1,9 @@
+<img height="180em" src="https://i.ibb.co/hyrRS3J/img-1.jpg" />
 <h1 align="center">Hi 👋, I'm Tauhid Hasan</h1>(https://i.ibb.co/hyrRS3J/img-1.jpg)
 <h3 align="center">A passionate frontend developer originally from Bangladesh and living in Istanbul, Turkey.</h3>
 
 
-- 📝 I am learning **Typescript, NextJs, Redux**
+- 📝 I am learning **Typescript, NextJs, Redux** 
 
 - 💬 Ask me about **Javascript, React**
 
