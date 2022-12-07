@@ -1,6 +1,5 @@
 <img  src="https://i.ibb.co/BszNLnj/Hiring-2.png"/>
-<h1 align="center">Hi 👋, I'm Tauhid Hasan</h1>(https://i.ibb.co/hyrRS3J/img-1.jpg)
-<h3 align="center">A passionate frontend developer originally from Bangladesh and living in Istanbul, Turkey.</h3>
+<h3 align="center">A passionate Frontend Developer(ReactJs) originally from Bangladesh and living in Istanbul, Turkey.</h3>
 
 
 - 📝 I am learning **Typescript, NextJs, Redux** 
