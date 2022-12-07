@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer originally from Bangladesh and living in Istanbul, Turkey.</h3>
 
 
-- 📝 I regularly write articles on [https://medium.com/@tauhid-hasan](https://medium.com/@tauhid-hasan)
+- 📝 I am learning **Typescript, NextJs, Redux**
 
 - 💬 Ask me about **Javascript, React**
 
