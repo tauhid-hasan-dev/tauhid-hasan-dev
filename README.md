@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/tauhid-hasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tauhid-hasan/" height="30" width="40" /></a>
 </p>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## :computer: Languages and Tools
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -44,26 +44,17 @@
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   
-  ### :hammer_and_wrench: Languages and Tools :
-## :computer: Technologies that I know
-<br>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-</p><br/>
 
 <br/>
 
-<a href="https://github.com/tauhid-hasan-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tauhid-hasan-dev&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-hasan-dev&theme=tokyonight&layout=compact" />
-</a>
+## :fire: My Stats
+
+<br />
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tauhid-hasan-dev&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-hasan-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/sudheerj/github-readme-stats)
+
  
 <br/>
 
