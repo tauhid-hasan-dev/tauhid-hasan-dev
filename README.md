@@ -1,5 +1,5 @@
 <img  src="https://i.ibb.co/BszNLnj/Hiring-2.png"/>
-<h3 align="center">A passionate Frontend Developer (ReactJs) originally from Bangladesh and living in Istanbul, Turkey.</h3>
+<h3 align="center">A passionate Frontend Developer (ReactJs) and actively looking for a Junior Frontend Developer position</h3>
 <hr style="border:2px solid gray">
 
 
@@ -10,6 +10,8 @@
 - 📫 How to reach me **tauhidhasan11@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tauhid-hasan/](https://www.linkedin.com/in/tauhid-hasan/)
+
+<hr style="border:2px solid gray">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,7 +53,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
 </div>
 
 <br/>
