@@ -1,8 +1,16 @@
 <img  src="https://i.ibb.co/BszNLnj/Hiring-2.png"/>
-<h3 align="center">A passionate Frontend Developer (ReactJs) and actively looking for a Junior Frontend Developer position</h3>
-<hr style="border:2px solid gray">
 
+<div id="header" align="center">
+  <h2>Actively looking for a Junior Frontend Developer position</h2>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/tauhid-hasan/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=tauhid-hasan-dev&style=flat-square&color=blue" alt=""/>
+</div>
 
+---
 - 📝 I am learning **Typescript, NextJs, Redux** 
 
 - 💬 Ask me about **Javascript, React**
@@ -13,10 +21,7 @@
 
 <hr style="border:2px solid gray">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tauhid-hasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tauhid-hasan/" height="30" width="40" /></a>
-</p>
+
 
 ## :computer: Languages and Tools
 
@@ -27,7 +32,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Node.js](https://img.shields.io/badge/-ExpressJs-333333?style=flat&logo=ExpressJs)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
