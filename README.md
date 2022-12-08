@@ -19,40 +19,23 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tauhid-hasan/](https://www.linkedin.com/in/tauhid-hasan/)
 
-<hr style="border:2px solid gray">
+---
 
+### :computer: Languages and Tools
+<p align="center">
+<img  width=80 text=white src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
+<img  width=80 text=white src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
+<img  width=80 text=white src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
+<img  width=80 text=white src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
+<img  width=80 text=white src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/>
+<img  width=80 text=white src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"/>
+<img  width=80 text=white src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"/>
+<img  width=80 text=white src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/>
+<img  width=80 text=white src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png"/>
+</p><br/>
 
-
-## :computer: Languages and Tools
-
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-ExpressJs-333333?style=flat&logo=ExpressJs)
-  
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitbucket)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  
-
-<br/>
-
-## :fire: My Stats
+---
+### :fire: My Stats
 
 <br />
 
