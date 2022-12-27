@@ -6,6 +6,12 @@
     <a href="https://www.linkedin.com/in/tauhid-hasan/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://tauhid-hasan.netlify.app/">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=chrome&logoColor=#0F172A" alt="Portfolio Badge"/>
+    </a>
+    
+  
+   
   </div>
   <img src="https://komarev.com/ghpvc/?username=tauhid-hasan-dev&style=flat-square&color=blue" alt=""/>
 </div>
@@ -50,6 +56,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tauhid-hasan-dev&theme=dark&background=000000)](https://github.com/tauhid-hasan-dev/github-readme-stats)
 
  
-<br/>
+
 
 
