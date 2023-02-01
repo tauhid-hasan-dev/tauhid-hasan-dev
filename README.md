@@ -1,7 +1,7 @@
 <img  src="https://i.ibb.co/BszNLnj/Hiring-2.png"/>
 
 <div id="header" align="center">
-  <h2>Actively looking for a Junior Frontend Developer position</h2>
+  <h2>Hello, I am a frontend developer</h2>
   <div id="badges">
     <a href="https://www.linkedin.com/in/tauhid-hasan/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
