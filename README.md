@@ -7,9 +7,11 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://tauhid-hasan.netlify.app/">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=chrome&logoColor=#0F172A" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=chrome&logoColor=#1D1C60" alt="Portfolio Badge"/>
     </a>
-    
+    <a href="[https://tauhid-hasan.netlify.app/](https://drive.google.com/file/d/1ix8ayp0IoC7mFdCLm0ZmK4v3okuf3HhK/view?usp=sharing)">
+      <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=chrome&logoColor=#1D1C60" alt="Resume Badge"/>
+    </a>
   
    
   </div>
