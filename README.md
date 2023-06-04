@@ -1,4 +1,4 @@
-<img  src="https://i.ibb.co/BszNLnj/Hiring-2.png"/>
+<img src="https://i.ibb.co/1MNm5xj/Hiring.png" alt="Hiring" border="0">
 
 <div id="header" align="center">
   <h2>Hello, I am a frontend developer</h2>
