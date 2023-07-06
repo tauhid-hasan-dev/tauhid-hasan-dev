@@ -2,7 +2,9 @@
 
 <div id="header" align="left">
   <p>Hello there! I am a frontend developer currently employed at Avocado10 Technology Services in Istanbul, Turkey. I am actively involved in the initial stages of developing a CRM web application and contribute to its entire lifecycle. I also possess a strong foundation in backend development. Recently, I successfully built a backend web application using Typescript, Express.js, and Mongoose, following a modular pattern.</p>
- 
+  <div id="omuk" align="center">
+      <img src="https://komarev.com/ghpvc/?username=tauhid-hasan-dev&style=flat-square&color=blue" alt=""/>
+  </div>
 </div>
 
  <div id="badges" align="center">
@@ -16,9 +18,7 @@
       <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=chrome&logoColor=#1D1C60" alt="Resume Badge"/>
     </a>
   </div>
-  <div id="omuk" align="left">
-      <img src="https://komarev.com/ghpvc/?username=tauhid-hasan-dev&style=flat-square&color=blue" alt=""/>
-  </div>
+ 
 
 ---
 - 📝 I am learning **Typescript, NextJs, Redux** 
