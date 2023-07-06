@@ -27,7 +27,7 @@ Here are some of the technologies and skills I'm proficient in:
 - **Frontend**: ReactJs | NextJs | TypeScript | JavaScript | Redux | Tailwind CSS | Material UI | Daisy UI | Html5 | CSS3
 - **Backend**: TypeScript | NodeJS | ExpressJs
 - **Database**: MongoDB | SQL
-- **Version Control**: Git | GitHub| BitBucket
+- **Version Control**: Git | GitHub | BitBucket
 - **DevOps**: Docker
 - **Cloud**: AWS
 - **Authentication an Athorization**: Firebase | JWT
