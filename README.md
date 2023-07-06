@@ -24,11 +24,15 @@
 
 Here are some of the technologies and skills I'm proficient in:
 
-- **Frontend**: Typescript | Javascript | ReactJs, NextJs, Tailwind CSS, Material UI, Daisy UI, Html5, CSS3
-- Backend: Typescript, NodeJS, ExpressJs
-- Database: MongoDB, SQL
-- DevOps tools: Docker
-- Cloud platforms: AWS(Amazon Web Services)
+- 🖥️ **Frontend**: ReactJs | NextJs | TypeScript | JavaScript | Tailwind CSS | Material UI | Daisy UI | Html5 | CSS3
+- 🧩 **Backend**: TypeScript | NodeJS | ExpressJs
+- 🗄️ **Database**: MongoDB | SQL
+- 📚 **Version Control**: Git | GitHub| BitBucket
+- 🛠️ **DevOps**: Docker
+- ☁️ **Cloud platforms**: AWS
+- 🔒 **Authentication an Athorization**: Firebase | JWT
+- 🔧 **Tools**: Jira | Trello | Figma | Postman | NoSql Booster | MongoDB Compass
+- **Important Packages**: React Router | Zod Error | Eslint | Prettier | React Query | React Icons    
 ---
 
 ### :computer: Languages and Tools
