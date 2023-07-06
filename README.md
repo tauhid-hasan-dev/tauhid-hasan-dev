@@ -18,8 +18,8 @@
       <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=chrome&logoColor=#1D1C60" alt="Resume Badge"/>
     </a>
   </div>
- 
---- 
+
+---
 ### ⚡ Technologies and Skills
 
 Here are some of the technologies and skills I'm proficient in:
@@ -33,8 +33,8 @@ Here are some of the technologies and skills I'm proficient in:
 - **Authentication an Athorization**: Firebase | JWT
 - **Tools**: Jira | Trello | Figma | Postman | NoSql Booster | MongoDB Compass
 - **Important Packages**: React Router | Zod Error | Eslint | Prettier | React Query | React Icons    
----
 
+---
 ### :fire: My Stats
 
 <br />
