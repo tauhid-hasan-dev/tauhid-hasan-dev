@@ -1,8 +1,11 @@
 <img src="https://i.ibb.co/1MNm5xj/Hiring.png" alt="Hiring" border="0">
 
 <div id="header" align="left">
-  <h4>Hello there! I am a frontend developer currently employed at Avocado10 Technology Services in Istanbul, Turkey. I am actively involved in the initial stages of developing a CRM web application and contribute to its entire lifecycle. I also possess a strong foundation in backend development. Recently, I successfully built a backend web application using Typescript, Express.js, and Mongoose, following a modular pattern.</h4>
-  <div id="badges">
+  <p>Hello there! I am a frontend developer currently employed at Avocado10 Technology Services in Istanbul, Turkey. I am actively involved in the initial stages of developing a CRM web application and contribute to its entire lifecycle. I also possess a strong foundation in backend development. Recently, I successfully built a backend web application using Typescript, Express.js, and Mongoose, following a modular pattern.</p>
+ 
+</div>
+
+ <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/tauhid-hasan/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -12,11 +15,10 @@
     <a href="https://drive.google.com/file/d/1ix8ayp0IoC7mFdCLm0ZmK4v3okuf3HhK/view?usp=sharing">
       <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=chrome&logoColor=#1D1C60" alt="Resume Badge"/>
     </a>
-  
-   
   </div>
-  <img src="https://komarev.com/ghpvc/?username=tauhid-hasan-dev&style=flat-square&color=blue" alt=""/>
-</div>
+  <div id="omuk" align="left">
+      <img src="https://komarev.com/ghpvc/?username=tauhid-hasan-dev&style=flat-square&color=blue" alt=""/>
+  </div>
 
 ---
 - 📝 I am learning **Typescript, NextJs, Redux** 
