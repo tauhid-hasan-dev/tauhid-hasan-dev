@@ -19,16 +19,16 @@
     </a>
   </div>
  
+--- 
+### ⚡ Technologies and Skills
 
----
-- 📝 I am learning **Typescript, NextJs, Redux** 
+Here are some of the technologies and skills I'm proficient in:
 
-- 💬 Ask me about **Javascript, React**
-
-- 📫 How to reach me **tauhidhasan11@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/tauhid-hasan/](https://www.linkedin.com/in/tauhid-hasan/)
-
+- **Frontend**: Typescript | Javascript | ReactJs, NextJs, Tailwind CSS, Material UI, Daisy UI, Html5, CSS3
+- Backend: Typescript, NodeJS, ExpressJs
+- Database: MongoDB, SQL
+- DevOps tools: Docker
+- Cloud platforms: AWS(Amazon Web Services)
 ---
 
 ### :computer: Languages and Tools
