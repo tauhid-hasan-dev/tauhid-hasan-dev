@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/1MNm5xj/Hiring.png" alt="Hiring" border="0">
 
 <div id="header" align="center">
-  <h2>Hello, I am a frontend developer</h2>
+  <h4>Hello there! I am a frontend developer currently employed at Avocado10 Technology Services in Istanbul, Turkey. I am actively involved in the initial stages of developing a CRM web application and contribute to its entire lifecycle. I also possess a strong foundation in backend development. Recently, I successfully built a backend web application using Typescript, Express.js, and Mongoose, following a modular pattern.</h4>
   <div id="badges">
     <a href="https://www.linkedin.com/in/tauhid-hasan/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
