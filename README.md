@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://tauhid-hasan.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%2300FFFF.svg?style=for-the-badge&amp;logo=chrome&amp;logoColor=%2300FFFF" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23E74646.svg?style=for-the-badge&amp;logo=chrome&amp;logoColor=%23E74646" alt="Portfolio Badge"/>
   </a>
   <a href="https://drive.google.com/file/d/1ix8ayp0IoC7mFdCLm0ZmK4v3okuf3HhK/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-%2300FFFF.svg?style=for-the-badge&amp;logo=chrome&amp;logoColor=%2300FFFF" alt="Resume Badge"/>
