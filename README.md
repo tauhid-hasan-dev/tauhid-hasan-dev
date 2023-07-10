@@ -31,7 +31,7 @@ Here are some of the technologies and skills I'm proficient in:
 - **Version Control**: Git | GitHub | BitBucket
 - **DevOps**: Docker
 - **Cloud**: AWS
-- **Authentication an Athorization**: Firebase | JWT
+- **Authentication and Athorization**: Firebase | JWT
 - **Tools**: Jira | Trello | Figma | Postman | NoSql Booster | MongoDB Compass
 - **Important Packages**: React Router | Zod Error | Eslint | Prettier | React Query | React Icons    
 
