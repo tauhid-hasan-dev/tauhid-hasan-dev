@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/1MNm5xj/Hiring.png" alt="Hiring" border="0">
 
 <div id="header" align="left">
-  <p>Hello there! I am a frontend developer currently employed at Avocado10 Technology Services in Istanbul, Turkey. I am actively involved in the initial stages of developing a CRM web application and contribute to its entire lifecycle. I also possess a strong foundation in backend development. Recently, I successfully built a backend web application using Typescript, Express.js, and Mongoose, following a modular pattern.</p>
+  <p>Hello there! I am a frontend developer currently employed as a frontend developer at Avocado10 Technology Services in Istanbul, Turkey. I am actively involved in the initial stages of developing a CRM web application and contribute to its entire lifecycle. I also possess a strong foundation in backend development. Recently, I successfully built a backend web application using Typescript, Express.js, and Mongoose, following a modular pattern.</p>
   <div id="omuk" align="center">
       <img src="https://komarev.com/ghpvc/?username=tauhid-hasan-dev&style=flat-square&color=blue" alt=""/>
   </div>
