@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/1MNm5xj/Hiring.png" alt="Hiring" border="0">
 
 <div id="header" align="left">
-  <p>Hi there! I am a frontend developer currently employed as a frontend developer at Avocado10 Technology Services in Istanbul, Turkey. I am actively involved in the initial stages of developing a CRM web application and contribute to its entire lifecycle. Additionally, I have a solid understanding of backend technologies such as ExpressJs, NodeJs, and databases like MongoDB and SQL.</p>
+  <p>Hi there! I am a Full Stack Developer currently employed at Altor Danışmanlık Tic. Ltd. Şti. in Istanbul, Turkey. I am actively involved in the development of web applications, contributing to their entire lifecycle. I use technologies such as Node.js and Express.js for the backend, and C# (.Net Core) for backend development. On the frontend, I work with React.js and Tailwind CSS. </p>
   <div id="omuk" align="center">
       <img src="https://komarev.com/ghpvc/?username=tauhid-hasan-dev&style=flat-square&color=blue" alt=""/>
   </div>
