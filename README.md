@@ -25,7 +25,7 @@
 
 Here are some of the technologies and skills I'm proficient in:
 
-- **Language**: Javascript, Typescript, C#, SQL
+- **Language**: Javascript | Typescript | C#(.Net) | SQL
 - **Frontend**: ReactJs | NextJs | TypeScript | JavaScript | Redux | Reduz Toolkit | Tailwind CSS | Material UI | Html5 | CSS3
 - **Backend**: TypeScript | NodeJS | ExpressJs | C#(.Net core) | ASP.NET(MVC, Web API, Microservices);
 - **Database**: MongoDB | SQL | PostgreSQL
