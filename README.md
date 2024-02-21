@@ -30,7 +30,6 @@ Here are some of the technologies and skills I'm proficient in:
 - **Backend**: TypeScript | NodeJS | ExpressJs | C#(.Net core) | ASP.NET |  RESTful API | SOAP API
 - **Database**: MongoDB | SQL | PostgreSQL
 - **Version Control**: Git | GitHub | BitBucket
-- **Authentication and Athorization**: Firebase | JWT
 - **Tools**: Jira | Trello | Figma | Postman | NoSql Booster | MongoDB Compass | SoapUI  
 
 ---
