@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/1MNm5xj/Hiring.png" alt="Hiring" border="0">
 
 <div id="header" align="left">
-  <p>Hi there! I am a Full Stack Developer currently employed at Altor Danışmanlık Tic. Ltd. Şti. in Istanbul, Turkey. I am actively involved in the development of web applications, contributing to their entire lifecycle. I use technologies such as Node.js and C# (.Net Core) for backend development. On the frontend, I am working with React.js, Tailwind CSS, HTML5 and CSS3. I am working on a AI assistant now. We are using Python and langchain to build this custom AI Assistant using large language model(LLM)</p>
+  <p>Greetings! I am a Full Stack Developer currently employed at Altor Danışmanlık Tic. Ltd. Şti. in Istanbul, Turkey, actively contributing to the development lifecycle of web applications. Proficient in utilizing technologies such as TypeScript, Node.js, C# (.NET Core), and Python for backend development. On the frontend, I specialize in working with React.js, Tailwind CSS, Ant Design, Material UI, HTML5, and CSS3. Currently, involved in the development of a custom AI assistant using the Assistant API provided by OpenAI. The implementation involves Python and Langchain to construct this AI assistant, leveraging a large language model (LLM).</p>
   <div id="omuk" align="center">
       <img src="https://komarev.com/ghpvc/?username=tauhid-hasan-dev&style=flat-square&color=blue" alt=""/>
   </div>
