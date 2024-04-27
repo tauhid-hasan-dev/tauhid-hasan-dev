@@ -30,7 +30,7 @@ Here are some of the technologies and skills I'm proficient in:
 - **Mobile Frontend**: Flutter
 - **Backend**: TypeScript | NodeJS | ExpressJs | C#(.Net core) | ASP.NET |  RESTful API | SOAP API
 - **Database**: MongoDB | SQL | PostgreSQL 
-- **ORM**: Prisma 
+- **ORM | ODM**: Prisma | Mongoose 
 - **Version Control**: Git | GitHub | BitBucket
 - **Tools**: Postman | Jira | Trello | Figma  | NoSql Booster | MongoDB Compass | SoapUI  
 
