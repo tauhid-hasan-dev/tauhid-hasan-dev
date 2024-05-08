@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/1MNm5xj/Hiring.png" alt="Hiring" border="0">
 
 <div id="header" align="left">
-  <p>Hi, I am a Full Stack Developer currently employed at Altor Danışmanlık Tic. Ltd. Şti. in Istanbul, Turkey, actively contributing to the development lifecycle of web applications. Proficient in utilizing technologies such as Javascript, TypeScript, Node.js, C# (.NET Core), and Python for backend development. On the frontend, I specialize in working with React.js, Tailwind CSS, Bootstrap, Ant Design, Material UI, HTML5, and CSS3.</p>
+  <p>Hi, I am a Full Stack Developer currently employed at Altor Danışmanlık Tic. Ltd. Şti. in Istanbul, Turkey, actively contributing to the development lifecycle of web applications. Proficient in utilizing technologies such as Javascript, TypeScript, Node.js, C# (.NET Core) for backend development. On the frontend, I specialize in working with ReactJs, NextJs, Tailwind CSS, Bootstrap, Ant Design, Material UI, HTML5, and CSS3 for web and Flutter for mobile development</p>
   <div id="omuk" align="center">
       <img src="https://komarev.com/ghpvc/?username=tauhid-hasan-dev&style=flat-square&color=blue" alt=""/>
   </div>
