@@ -48,6 +48,7 @@ Here are some of the technologies and skills I'm proficient in:
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" height="50" alt="Tailwind CSS Icon">
   <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" width="50" height="50" alt="Material UI Icon">
   <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="55" height="55" alt="PostgreSQL Icon">
+  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="55" height="55" alt="MongoDB Icon">
 
  
 </div>
