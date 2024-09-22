@@ -2,7 +2,7 @@
 
 
 <div id="header" align="left">
-  <p>Hi, I am a Full Stack Developer currently employed at Altor Danışmanlık Tic. Ltd. Şti. in Istanbul, Turkey, actively contributing to the development lifecycle of web and mobile applications. Proficient in utilizing technologies such as Javascript, TypeScript, Node.js, C# (.NET Core) for backend development. On the web frontend, I specialize in working with ReactJs, NextJs, Tailwind CSS, Bootstrap, Ant Design, Material UI, HTML5, and CSS3 and Dart, Flutter for mobile frontend development.</p>
+  <p>Hi, I am a Full Stack Developer with 3 years of experience, currently employed at Altor Danışmanlık Tic. Ltd. Şti. in Istanbul, Turkey. I actively contribute to the development lifecycle of both web and mobile applications. I am proficient in backend technologies such as JavaScript, TypeScript, Node.js, and C# (.NET Core). For web frontend development, I specialize in ReactJS, Next.js, Tailwind CSS, Bootstrap, Ant Design, Material UI, HTML5, and CSS3. For mobile frontend development, I work extensively with Dart and Flutter.</p>
   <div id="omuk" align="center">
       <img src="https://komarev.com/ghpvc/?username=tauhid-hasan-dev&style=flat-square&color=blue" alt=""/>
   </div>
