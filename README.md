@@ -32,7 +32,8 @@ Here are some of the technologies and skills I'm proficient in:
 - **Backend**: Javascript | TypeScript | TypeScript | Node.js | Express.js | ASP.NET 
 - **Database**: MongoDB | SQL | PostgreSQL 
 - **ORM**: Prisma | Entity Framework 
-- **ODM**: Mongoose 
+- **ODM**: Mongoose
+- **Testing**: Jest | Mocha
 - **Version Control**: Git | GitHub | BitBucket
 - **Tools**: Postman | Swagger | Figma | Jira | Trello | NoSql Booster | MongoDB Compass | SoapUI  
 - **Topics**: MVC | SPA | SSR | CSR | RBAC| DBMS | Authentication | Authorization | Reusability | Scalability | IIS | REST API
