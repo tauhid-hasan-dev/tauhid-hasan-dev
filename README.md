@@ -24,8 +24,6 @@
 ---
 ### ⚡ Technologies and Skills
 
-## Technologies and Skills
-
 - **Languages**: JavaScript, TypeScript, C#, Python, Dart, SQL
 - **Backend**: JavaScript, TypeScript, Node.js, Express.js, ASP.NET
 - **Web Frontend**: ReactJs, Next.js, TypeScript, JavaScript, Redux, Redux Toolkit, Tailwind CSS, Material UI, Html5, CSS3
