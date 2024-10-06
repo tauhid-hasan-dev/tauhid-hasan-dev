@@ -24,19 +24,19 @@
 ---
 ### ⚡ Technologies and Skills
 
-Here are some of the technologies and skills I'm proficient in:
+## Technologies and Skills
 
-- **Language**: JavaScript | TypeScript | C# | Python | Dart | SQL
-- **Web Frontend**: ReactJs | Next.js | TypeScript | JavaScript | Redux | Redux Toolkit | Tailwind CSS | Material UI | Html5 | CSS3
-- **Mobile Frontend**: Dart | Flutter
-- **Backend**: Javascript | TypeScript | TypeScript | Node.js | Express.js | ASP.NET 
-- **Database**: MongoDB | SQL | PostgreSQL 
-- **ORM**: Prisma | Entity Framework 
+- **Languages**: JavaScript, TypeScript, C#, Python, Dart, SQL
+- **Web Frontend**: ReactJs, Next.js, TypeScript, JavaScript, Redux, Redux Toolkit, Tailwind CSS, Material UI, Html5, CSS3
+- **Mobile Frontend**: Dart, Flutter
+- **Backend**: JavaScript, TypeScript, Node.js, Express.js, ASP.NET
+- **Databases**: MongoDB, SQL, PostgreSQL
+- **ORM**: Prisma, Entity Framework
 - **ODM**: Mongoose
-- **Testing**: Jest | Vitest | Mocha
-- **Version Control**: Git | GitHub | BitBucket
-- **Tools**: Postman | Swagger | Figma | Jira | Trello | NoSql Booster | MongoDB Compass | SoapUI  
-- **Topics**: MVC | SPA | SSR | CSR | RBAC| DBMS | Authentication | Authorization | Reusability | Scalability | IIS | REST API
+- **Testing**: Jest, Vitest, Mocha
+- **Version Control**: Git, GitHub, BitBucket
+- **Tools**: Postman, Swagger, Figma, Jira, Trello, NoSql Booster, MongoDB Compass, SoapUI  
+- **Topics**: MVC, SPA, SSR, CSR, RBAC, DBMS, Authentication, Authorization, Reusability, Scalability, IIS, REST API
 
 ---
 <div style="display: flex;">
