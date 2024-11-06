@@ -29,6 +29,7 @@
 - **Web Frontend**: ReactJs, Next.js, TypeScript, JavaScript, Redux, Redux Toolkit, Tailwind CSS, Material UI, Html5, CSS3
 - **Mobile Frontend**: Dart, Flutter
 - **Databases**: MongoDB, SQL, PostgreSQL
+- **Cloud**: GCP(Google Cloud Platform)
 - **ORM**: Prisma, Entity Framework
 - **ODM**: Mongoose
 - **Testing**: Jest, Vitest, Mocha
