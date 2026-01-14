@@ -2,7 +2,10 @@
 
 
 <div id="header" align="left">
-  <p>Hi, I am a Full Stack Developer with more than 4 years of experience, currently employed at ID8-Media in Istanbul, Turkey. I actively contribute to the development lifecycle of both web and mobile applications. I am proficient in backend technologies such as JavaScript, TypeScript, Node.js, and C# (.NET Core). For web frontend development, I specialize in React, Next.js, Tailwind CSS, Bootstrap, Ant Design, Material UI, HTML5, and CSS3. For mobile frontend development, I work extensively with Dart and Flutter.</p>
+  <p>Software Engineer (AI & Cloud) building cloud-native, scalable systems powered by Generative & Agentic AI.
+Experienced with Node.js, Golang, Python, and modern system design principles.
+Deploying production-grade infrastructure on Google Cloud using Docker, Terraform, and Linux.
+Focused on LangChain, LangGraph, RAG pipelines, and turning AI research into real-world products.</p>
   <div id="omuk" align="center">
       <img src="https://komarev.com/ghpvc/?username=tauhid-hasan-dev&style=flat-square&color=blue" alt=""/>
   </div>
