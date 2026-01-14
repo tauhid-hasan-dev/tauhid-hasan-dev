@@ -2,8 +2,8 @@
 
 
 <div id="header" align="left">
-  <p>Software Engineer (AI & Cloud) with 4+ years of experience building cloud-native, scalable systems powered by Generative & Agentic AI.
-Experienced with Node.js, Golang, Python, and modern system design principles.
+  <p>Software Engineer (AI & Cloud) with 4+ years of experience, building cloud-native, scalable systems powered by Generative & Agentic AI.
+Experienced with Node.js, Python, Go and modern system design principles.
 Deploying production-grade infrastructure on Google Cloud using Docker, Terraform, and Linux.
 Focused on LangChain, LangGraph, RAG pipelines, and turning AI research into real-world products.</p>
   <div id="omuk" align="center">
