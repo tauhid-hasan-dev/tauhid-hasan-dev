@@ -30,6 +30,7 @@
 - **Mobile Frontend**: Dart, Flutter
 - **Databases**: PostgreSQL, BigQuery, Cloud SQL, Firestore, MongoDB
 - **Cloud**: GCP, AWS
+- **IAC**: Terraform
 - **ORM**: Prisma, Entity Framework
 - **ODM**: Mongoose
 - **Testing**: Jest, Vitest, Mocha
