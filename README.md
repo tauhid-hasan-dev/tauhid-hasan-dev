@@ -24,18 +24,17 @@
 ---
 ### ⚡ Technologies and Skills
 
-- **Languages**: JavaScript, TypeScript, C#, Python, Dart, SQL
-- **Backend**: JavaScript, TypeScript, Node.js, Express.js, ASP.NET
-- **Web Frontend**: ReactJs, Next.js, TypeScript, JavaScript, Redux, Redux Toolkit, Tailwind CSS, Material UI, Html5, CSS3
+- **Languages**: TypeScript,Python,Go,C#,Dart,SQL
+- **Backend**: Node.js, Express.js, ASP.NET
+- **Web Frontend**: ReactJs, Next.js, Redux, Tailwind CSS, Material UI, Html5, CSS3
 - **Mobile Frontend**: Dart, Flutter
-- **Databases**: MongoDB, SQL, PostgreSQL
-- **Cloud**: GCP(Google Cloud Platform)
+- **Databases**: PostgreSQL, BigQuery, Cloud SQL, Firestore, MongoDB
+- **Cloud**: GCP, AWS
 - **ORM**: Prisma, Entity Framework
 - **ODM**: Mongoose
 - **Testing**: Jest, Vitest, Mocha
 - **Version Control**: Git, GitHub, BitBucket
-- **Tools**: Postman, Swagger, Figma, Jira, Trello, NoSql Booster, MongoDB Compass, SoapUI  
-- **Topics**: MVC, SPA, SSR, CSR, RBAC, DBMS, Authentication, Authorization, Reusability, Scalability, IIS, REST API
+- **Tools**: Jira, Slack, Postman, Swagger, Figma
 
 ---
 <div style="display: flex;">
