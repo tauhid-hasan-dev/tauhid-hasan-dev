@@ -32,13 +32,17 @@ Focused on LangChain, LangGraph, RAG pipelines, and turning AI research into rea
 - **Web Frontend**: ReactJs, Next.js, Redux, Tailwind CSS, Material UI, Html5, CSS3
 - **Mobile Frontend**: Dart, Flutter
 - **Databases**: PostgreSQL, BigQuery, Cloud SQL, Firestore, MongoDB
+- **API Layer**: REST, gRPC, GraphQL + API Gateway
+- **Caching & Edge**: Redis + CDN (Cloudflare/CloudFront)
+- **Messaging**: Kafka, RabbitMQ
 - **Cloud**: GCP, AWS
 - **IAC**: Terraform
 - **ORM**: Prisma, Entity Framework
 - **ODM**: Mongoose
 - **Testing**: Jest, Vitest, Mocha
 - **Version Control**: Git, GitHub, BitBucket
-- **Tools**: Jira, Slack, Postman, Swagger, Figma
+- **Observability**: Prometheus, Grafana, OpenTelemetry
+- **Security**: OAuth2, JWT, API Gateway, Keycloak
 
 ---
 ### :fire: My Stats
